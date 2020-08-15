@@ -3,7 +3,7 @@
 I'm currently technical director at London based agency [Cyber-Duck](https://www.cyber-duck.co.uk).  We help clients bring their imaginations to life on the web.
 
 I love to work with a variety of different tools, some of our favourites:
-Backend
+
 - Laravel
 - AWS
 - Azure
