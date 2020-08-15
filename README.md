@@ -1,4 +1,21 @@
-### Hi there 👋
+### Hi there! I'm Gareth 👋
+
+I'm currently technical director at London based agency [Cyber-Duck](https://www.cyber-duck.co.uk).  We help clients bring their imaginations to life on the web.
+
+I love to work with a variety of different tools, some of our favourites:
+Backend
+- Laravel
+- AWS
+- Azure
+- Docker
+- Terraform
+- Ansible
+- Puppet
+- HTML
+- CSS/Sass/Scss
+- JavaScript
+- Tailwind
+- Vue
 
 <!--
 **worzy/worzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
